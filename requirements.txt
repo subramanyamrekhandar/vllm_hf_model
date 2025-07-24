@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+vllm
+python-dotenv
+uvicorn 
+python-multipart 
+pydantic
+
